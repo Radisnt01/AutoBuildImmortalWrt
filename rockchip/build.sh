@@ -37,6 +37,7 @@ PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-dockerman-zh-cn"
 PACKAGES="$PACKAGES kmod-nft-tproxy"
 PACKAGES="$PACKAGES kmod-inet-diag"
+PACKAGES="$PACKAGES sing-box"
 
 
 # 构建镜像
